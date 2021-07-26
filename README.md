@@ -1,1 +1,8 @@
-Numerical-Linear-Algebra Projects contain singular value decomposition problem,LU Decomposition problem,QR Decomposition problemLeast square problems.
+Implementations of 
+
+<ol>
+  <li>singular value decomposition problem</li>
+  <li>LU Decomposition problem </li>
+  <li>QR Decomposition problem</li>
+  <li>Least square problems</li>
+</ol>
